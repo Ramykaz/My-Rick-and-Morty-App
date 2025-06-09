@@ -35,6 +35,7 @@ Uygulamanın çalışan halini görmek için lütfen aşağıdaki linki ziyaret 
 👉 [https://my-rick-and-morty-app-tau.vercel.app/) 👈
 
 ilk seferde yüklenmemesi durumunda web sitesini birkaç kez yeniden yükleyin
+
 ---
 
 ## 📦 Kurulum ve Çalıştırma
