@@ -32,7 +32,7 @@ Proje geliştirme sürecinde aşağıdaki teknolojiler ve kütüphaneler kullan�
 
 Uygulamanın çalışan halini görmek için lütfen aşağıdaki linki ziyaret edin:
 
-👉 [Canlı Demo Linkiniz Buraya Gelecek (GitHub Pages / Vercel vb.)](https://your-live-demo-url.com) 👈
+👉 [https://my-rick-and-morty-app-tau.vercel.app/) 👈
 
 ---
 
