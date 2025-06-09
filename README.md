@@ -45,7 +45,7 @@ Projeyi yerel ortamınızda çalıştırmak için aşağıdaki adımları izleye
 1.  **Depoyu Klonlayın:**
     ```bash
     git clone https://github.com/Ramykaz/My-Rick-and-Morty-App.git
-    cd your-repo-name
+    cd My-Rick-and-Morty-App
     ```
 
 2.  **Bağımlılıkları Yükleyin:**
