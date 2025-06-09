@@ -81,7 +81,7 @@ Uygulama, aşağıdaki temel özellikleri sunmaktadır:
 ## 📂 Proje Yapısı
 
 Projenin ana dizin yapısı aşağıdaki gibidir:
----
+
 
 my-rick-morty-app/
 ├── public/                     # Statik dosyalar (örn. index.html)
@@ -122,8 +122,4 @@ Herhangi bir sorunuz, geri bildiriminiz veya iş birliği öneriniz olursa, lüt
 
 ---
 
-## 📜 Lisans
 
-Bu proje MIT Lisansı altında lisanslanmıştır. Daha fazla bilgi için `LICENSE` dosyasına bakınız.
-
----
