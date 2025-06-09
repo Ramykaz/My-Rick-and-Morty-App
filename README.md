@@ -34,6 +34,7 @@ Uygulamanın çalışan halini görmek için lütfen aşağıdaki linki ziyaret 
 
 👉 [https://my-rick-and-morty-app-tau.vercel.app/) 👈
 
+ilk seferde yüklenmemesi durumunda web sitesini birkaç kez yeniden yükleyin
 ---
 
 ## 📦 Kurulum ve Çalıştırma
@@ -42,7 +43,7 @@ Projeyi yerel ortamınızda çalıştırmak için aşağıdaki adımları izleye
 
 1.  **Depoyu Klonlayın:**
     ```bash
-    git clone https://github.com/YourGitHubUsername/your-repo-name.git
+    git clone https://github.com/Ramykaz/My-Rick-and-Morty-App.git
     cd your-repo-name
     ```
 
