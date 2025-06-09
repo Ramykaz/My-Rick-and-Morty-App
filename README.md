@@ -81,7 +81,8 @@ Uygulama, aşağıdaki temel özellikleri sunmaktadır:
 ## 📂 Proje Yapısı
 
 Projenin ana dizin yapısı aşağıdaki gibidir:
-'''
+---
+
 my-rick-morty-app/
 ├── public/                     # Statik dosyalar (örn. index.html)
 ├── src/                        # Uygulamanın kaynak kodları
@@ -100,7 +101,7 @@ my-rick-morty-app/
 ├── package.json                # Proje bağımlılıkları, betikleri ve meta bilgileri
 ├── README.md                   # Proje hakkında bilgiler içeren dosya
 └── vite.config.js              # Vite derleme aracı için yapılandırma dosyası
-'''
+
 ---
 
 ## 💭 Düşünceler ve Geliştirme Yaklaşımı
