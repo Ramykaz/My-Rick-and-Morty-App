@@ -83,23 +83,23 @@ Uygulama, aşağıdaki temel özellikleri sunmaktadır:
 Projenin ana dizin yapısı aşağıdaki gibidir:
 
 my-rick-morty-app/
-├── public/
-├── src/
-│   ├── components/
-│   │   ├── CharacterDetail.jsx   # Karakter detay kartı
-│   │   ├── CharacterTable.jsx    # Karakter tablosu
-│   │   ├── FilterControls.jsx    # Filtreleme girdileri
-│   │   ├── Pagination.jsx        # Sayfalama kontrolleri
-│   │   └── SortControls.jsx      # Sıralama düğmeleri
-│   ├── App.jsx                   # Ana uygulama bileşeni ve mantığı
-│   ├── index.css                 # Global stiller
-│   └── main.jsx                  # React uygulamasının giriş noktası
-├── .eslintrc.cjs                 # ESLint yapılandırması
-├── .gitignore                    # Git tarafından göz ardı edilecek dosyalar
-├── index.html                    # Uygulamanın ana HTML dosyası
-├── package.json                  # Proje bağımlılıkları ve betikleri
-├── README.md                     # Bu dosya
-└── vite.config.js                # Vite yapılandırması
+├── public/                     # Statik dosyalar (örn. index.html)
+├── src/                        # Uygulamanın kaynak kodları
+│   ├── components/             # Yeniden kullanılabilir React bileşenleri
+│   │   ├── CharacterDetail.jsx # Karakter detay kartı
+│   │   ├── CharacterTable.jsx  # Karakter listeleme tablosu
+│   │   ├── FilterControls.jsx  # Karakterleri filtreleme kontrolleri
+│   │   ├── Pagination.jsx      # Sayfalama kontrolleri
+│   │   └── SortControls.jsx    # Karakterleri sıralama düğmeleri
+│   ├── App.jsx                 # Ana uygulama bileşeni ve global state yönetimi
+│   ├── index.css               # Uygulamanın genel stil tanımlamaları
+│   └── main.jsx                # React uygulamasının başlangıç dosyası (DOM render noktası)
+├── .eslintrc.cjs               # ESLint yapılandırma dosyası (kod kalitesi için)
+├── .gitignore                  # Git'in izlemeyeceği dosyalar ve klasörler
+├── index.html                  # Uygulamanın ana HTML sayfası
+├── package.json                # Proje bağımlılıkları, betikleri ve meta bilgileri
+├── README.md                   # Proje hakkında bilgiler içeren dosya
+└── vite.config.js              # Vite derleme aracı için yapılandırma dosyası
 
 ---
 
