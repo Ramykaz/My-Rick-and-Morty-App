@@ -82,7 +82,7 @@ Uygulama, aşağıdaki temel özellikleri sunmaktadır:
 
 Projenin ana dizin yapısı aşağıdaki gibidir:
 
-
+```text
 my-rick-morty-app/
 ├── public/                     # Statik dosyalar (örn. index.html)
 ├── src/                        # Uygulamanın kaynak kodları
@@ -91,7 +91,7 @@ my-rick-morty-app/
 │   │   ├── CharacterTable.jsx  # Karakter listeleme tablosu
 │   │   ├── FilterControls.jsx  # Karakterleri filtreleme kontrolleri
 │   │   ├── Pagination.jsx      # Sayfalama kontrolleri
-│   │   └── SortControls.jsx    # Karakterleri sıralama düğmeleri
+│   │   └── SortControls.jsx    # Karakterleri sıralama kontrolleri
 │   ├── App.jsx                 # Ana uygulama bileşeni ve global state yönetimi
 │   ├── index.css               # Uygulamanın genel stil tanımlamaları
 │   └── main.jsx                # React uygulamasının başlangıç dosyası (DOM render noktası)
@@ -101,6 +101,7 @@ my-rick-morty-app/
 ├── package.json                # Proje bağımlılıkları, betikleri ve meta bilgileri
 ├── README.md                   # Proje hakkında bilgiler içeren dosya
 └── vite.config.js              # Vite derleme aracı için yapılandırma dosyası
+```
 
 ---
 
